@@ -1,11 +1,9 @@
 ## Hi there 👋
-<br clear="both">
+![snake animation](https://github.com/EduardoTartas/EduardoTartas/blob/output/github-contribution-grid-snake2.svg)
 
-<img src="https://raw.githubusercontent.com/EduardoTartas/EduardoTartas/output/snake.svg" alt="Snake animation" />
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MatheusLBatista/MatheusLBatista/output/snake.svg" alt="Snake animation" />
-
-###
+<div style="width: 200px;">
+<a href="https://github.com/EduardoTartas/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
+</div>
