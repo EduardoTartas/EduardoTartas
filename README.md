@@ -1,8 +1,8 @@
 ## Hi there 👋
+👨‍💻 Desenvolvedor de Softwares
 
+🎓 Formação: Técnico em Informática Integrada ao Ensino Médio e atualmente cursando Análise e Desenvolvimento de Sistemas no IFRO Campus Vilhena, sempre buscando aprimorar minhas habilidades e acompanhar as tendências do setor. 
 
+🖥️ Linguagens de Programação: JavaScript (Node.js) | TypeScript | Java | MongoDB | MySQL | React.
 
-<div style="width: 100px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTartas&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+📧 Contato: eduardos.tartas@gmail.com
