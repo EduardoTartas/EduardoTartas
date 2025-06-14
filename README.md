@@ -1,10 +1,10 @@
-## Olá, mundo! 👋
+## Hello, world! 👋
 
-👨‍💻 Desenvolvedor de Softwares
+👨‍💻 Software Developer
 
-🎓 **Formação:** Técnico em Informática Integrada ao Ensino Médio. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFRO Campus Vilhena, sempre buscando aprimorar minhas habilidades.
+🎓 **Education:** High School Integrated Computer Technician. Currently pursuing an Associate Degree in Systems Analysis and Development at IFRO Campus Vilhena, always seeking to improve my skills.
 
-🖥️ **Linguagens de Programação:**
+🖥️ **Programming Languages:**
 
 <p>
   <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40"/>
@@ -32,10 +32,10 @@
 
 <p align="center">
   <a href="https://github.com/EduardoTartas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTartas&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTartas&layout=compact&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=EduardoTartas&theme=tokyonight&locale=pt_BR&hide_border=true&background=0D1117"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=EduardoTartas&theme=tokyonight&locale=en&hide_border=true&background=0D1117"/>
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=100%&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=120&section=footer"/>
 </p>
 
-📧 **Contato:** eduardos.tartas@gmail.com
+📧 **Contact:** eduardos.tartas@gmail.com
