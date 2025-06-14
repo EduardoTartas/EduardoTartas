@@ -4,12 +4,14 @@
 
 🎓 **Education:** High School Integrated Computer Technician. Currently pursuing an Associate Degree in Systems Analysis and Development at IFRO Campus Vilhena, always seeking to improve my skills.
 
-🖥️ **Programming Languages:**
+🖥️ **Technologies:**
 
 <p>
   <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40"/>
   &nbsp;
   <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  &nbsp;
+  <img title="Express" alt="Express" src="https://skillicons.dev/icons?i=express" height="40"/>
   &nbsp;
   <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="40"/>
   &nbsp;
@@ -24,7 +26,10 @@
   <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40"/>
   &nbsp;
   <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="40"/>
+  &nbsp;
+  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="40"/>
 </p>
+
 
 ---
 
