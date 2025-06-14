@@ -52,4 +52,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=120&section=footer"/>
 </p>
 
-📧 **Contact:** eduardos.tartas@gmail.com
+📧 **Contact:** eduardos.tartas@gmail.com  
+🔗 **LinkedIn:** [www.linkedin.com/in/eduardotartas](https://www.linkedin.com/in/eduardotartas)
