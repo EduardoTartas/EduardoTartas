@@ -38,6 +38,8 @@
 <p align="center">
   <a href="https://github.com/EduardoTartas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTartas&layout=compact&theme=dark&locale=en&hide_border=true&bg_color=EB545400"/>
+      </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EduardoTartas&theme=dark&hide_border=true&background=EB545400" alt="GitHub Streak" /></a>
 
 </p>
 
