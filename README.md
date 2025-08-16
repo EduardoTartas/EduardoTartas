@@ -28,6 +28,7 @@
   <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="40"/>
   &nbsp;
   <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="40"/>
+   <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="40"/>
 </p>
 
 ---
